@@ -1,2 +1,2 @@
 # jetson-repo-jmti
-my firft git repo
+my first git repo
